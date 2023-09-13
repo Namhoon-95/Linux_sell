@@ -1,2 +1,2 @@
 # Linux_shell
-## Junior Cloud Engineer!
+## Junior Cloud Engineer
